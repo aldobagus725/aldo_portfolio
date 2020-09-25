@@ -1,0 +1,20 @@
+[
+    {
+        "namaPasien": "Rivaldo",
+        "medRecordNumber": "ABC123",
+        "biayaDaftarPasien": "120000",
+        "biayaPeriksaPasien": "30000",
+        "poli": "Anak",
+        "tanggalPemeriksaan": "2020-09-26",
+        "paymentMethod": "Umum"
+    },
+    {
+        "namaPasien": "Arinbami",
+        "medRecordNumber": "ABC123",
+        "biayaDaftarPasien": "120000",
+        "biayaPeriksaPasien": "300000",
+        "poli": "Anak",
+        "tanggalPemeriksaan": "2020-09-30",
+        "paymentMethod": "BPJS"
+    }
+]

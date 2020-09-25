@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ircmaxell/random-lib": "^1.2",
+        "fzaninotto/faker": "^1.9",
+        "nesbot/carbon": "^2.39",
+        "hashids/hashids": "^4.0"
+    }
+}
