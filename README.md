@@ -1,4 +1,4 @@
-# Asesmen JWD - Formulir Pengisian Daftar Siswa
+# First Portfolio
 
 Requirements
 ============
@@ -7,23 +7,13 @@ Requirements
 * Bootstrap 4.5.0
 * PHP
 
-
 Installation
 ============
-Since the project is build using XAMPP, you can put the PHP file with the assets folder to the htdocs directory,
-and then navigate through localhost. No Database needed.
-
-1. Download the project
-2. Extract to htdocs, with your preferred folder name (i.e. SoalJWD)
-3. Start XAMPP, turn on Apache server
-4. then open your browser
-5. Navigate through localhost in the search bar
-    (i.e. localhost/bpptik/SoalJWD/index.php)
+For show only
 
 Configuration
 ============
-No additional configuration needed. Just plug and play.
-
+No additional configuration needed.
 
 Credits
 =======
